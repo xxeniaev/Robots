@@ -1,4 +1,6 @@
-package gui;
+package main.java.gui;
+
+import main.java.gui.MainApplicationFrame;
 
 import java.awt.Frame;
 
